@@ -12,3 +12,6 @@ console.log(inNumber)
 console.log(typeof NaN);
 
 
+const balance = 124.567;
+
+console.log(balance.toPrecision(5));
